@@ -1,7 +1,7 @@
 # Keychron C3 Pro RGB keyboard with hot-swappable switches
 Firmware and .json VIA file for the Keychron C3 Pro RGB version
 
-As of 4-30-24, the Keychron C3 Pro RGB edition is too new; Keychron has not yet released a .json file for VIA for this board. So I deicded to create one!
+As of 4-30-24, the Keychron C3 Pro RGB edition is too new; Keychron has not yet released firmware or a .json file for VIA for this board. So I deicded to create one!
 
 This file is a combination of the updated PID for the board (`0x0433`), the keymap for the otherwise-identical C3 Pro red LED version, and the lighting map from the C2 pro, which through experimentation was found to match the lighting on the C3 Pro RGB (thanks to Migiii from the VIA Discord for suggesting the possibility!).
 
@@ -20,4 +20,4 @@ This file is a combination of the updated PID for the board (`0x0433`), the keym
 
 # Firmware
 
-I've also added a copy of the C3 Pro RGB firmware, marked as v1.0.1 and dated March 8th 2024.  This, admittedly, was recieved second hand through the Keychron Discord, originally from one of the devs directly.  I can't *fully* vouch for the auithenticity of it, but I did burn it to my board and I noticed no changes to its functionality.  As of right now, this is pretty much the only copy available on the web, as the board is not yet on Keychron's site at all!
+I've also added a copy of the C3 Pro RGB firmware, marked as v1.0.1 and dated March 8th 2024.  This, admittedly, was recieved second hand through the Keychron Discord, originally and supposedly from one of the devs directly.  I can't *fully* vouch for the authenticity of it, but I did burn it to my board and I noticed no changes to its functionality.  As of right now, this is pretty much the only copy available on the web, as the board is not yet on Keychron's site at all!
