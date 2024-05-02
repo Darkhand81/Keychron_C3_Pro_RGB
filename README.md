@@ -20,4 +20,4 @@ This file is a combination of the updated PID for the board (`0x0433`), the keym
 
 # Firmware
 
-I've also added a copy of the C3 Pro RGB firmware, marked as v1.0.1 and dated March 8th 2024.  This, admittedly, was recieved second hand through the Keychron Discord, originally and supposedly from one of the devs directly.  I can't *fully* vouch for the authenticity of it, but I did burn it to my board and I noticed no changes to its functionality.  As of right now, this is pretty much the only copy available on the web, as the board is not yet on Keychron's site at all!
+I've also added a copy of the C3 Pro RGB firmware, marked as v1.0.1 and dated March 8th 2024.  This was recieved through the Keychron Discord, from one of the Keychron devs [directly](https://discord.com/channels/673730324047462449/673744077912801300/1235063725598445618).  As of right now, this is pretty much the only copy available on the web, as the board is not yet on Keychron's site at all!
